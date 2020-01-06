@@ -1,3 +1,5 @@
+package ru.otus.homework.hw01;
+
 import com.google.common.base.Optional;
 
 public class HelloOtus {
